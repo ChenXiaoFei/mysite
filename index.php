@@ -1,2 +1,2 @@
 <?php
-echo this is mySite!
+echo 'this is mySite!';
